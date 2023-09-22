@@ -12,7 +12,7 @@
 `git remote add origin https://github.com/azmd801/git_tutorial.git` -  
 
 `git push -u origin main` -   
-
+`git remote -v`-
 
 
 Notes:
