@@ -9,10 +9,10 @@
 `git commit-m "this is my first commit"` - push every thing in the   staging environment, wth the commit message  
 `git branch` - will display the current brach name 
 `git branch -M main` - will change the name of current brach(master) to   main
-`git remote add origin https://github.com/azmd801/git_tutorial.git` -  
+`git remote add origin https://github.com/azmd801/git_tutorial.git` -   
 
-`git push -u origin main` -   
-`git remote -v`-
+`git push -u origin main` -     
+`git remote -v`-  
 
 
 Notes:
