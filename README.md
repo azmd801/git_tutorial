@@ -14,7 +14,7 @@
 `git remote -v`-  
 `git branch dev1` - Will create a new branch dev1
 `git checkout dev1`- Switched to branch 'dev1'
-
+`git merge dev1` - 
 
 Notes:
 * Check git status after any change in code 
